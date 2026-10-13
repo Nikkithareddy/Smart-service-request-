@@ -1,0 +1,388 @@
+{
+  "requests": [
+    {
+      "id": 1,
+      "title": "Laptop cannot connect to VPN",
+      "description": "After the latest update my laptop fails to authenticate with the VPN. I get a timeout error every time.",
+      "category": "IT Support",
+      "priority": "High",
+      "status": "In Progress",
+      "requester": "Rohan Mehta",
+      "requesterEmail": "rohan.mehta@example.com",
+      "assignee": "Procurement Team",
+      "createdAt": "2026-09-21T05:00:00.000Z",
+      "updatedAt": "2026-09-22T21:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-09-21T05:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        },
+        {
+          "at": "2026-09-22T07:00:00.000Z",
+          "from": "New",
+          "to": "In Review",
+          "note": "Triaged and under review"
+        },
+        {
+          "at": "2026-09-22T21:00:00.000Z",
+          "from": "In Review",
+          "to": "In Progress",
+          "note": "Work has started"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Replace flickering lights in Meeting Room 3",
+      "description": "The ceiling lights in Meeting Room 3 flicker during calls and are giving people headaches.",
+      "category": "Facilities",
+      "priority": "Medium",
+      "status": "In Review",
+      "requester": "Priya Nair",
+      "requesterEmail": "priya.nair@example.com",
+      "assignee": "Facilities Team",
+      "createdAt": "2026-10-10T02:00:00.000Z",
+      "updatedAt": "2026-10-11T05:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-10-10T02:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        },
+        {
+          "at": "2026-10-11T05:00:00.000Z",
+          "from": "New",
+          "to": "In Review",
+          "note": "Triaged and under review"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Update bank details on payroll record",
+      "description": "I changed banks and need my salary account updated before the next payroll cycle.",
+      "category": "HR",
+      "priority": "High",
+      "status": "Resolved",
+      "requester": "Daniel Brooks",
+      "requesterEmail": "daniel.brooks@example.com",
+      "assignee": "Finance Desk",
+      "createdAt": "2026-09-20T09:00:00.000Z",
+      "updatedAt": "2026-09-21T13:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-09-20T09:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        },
+        {
+          "at": "2026-09-20T17:00:00.000Z",
+          "from": "New",
+          "to": "In Review",
+          "note": "Triaged and under review"
+        },
+        {
+          "at": "2026-09-20T23:00:00.000Z",
+          "from": "In Review",
+          "to": "In Progress",
+          "note": "Work has started"
+        },
+        {
+          "at": "2026-09-21T13:00:00.000Z",
+          "from": "In Progress",
+          "to": "Resolved",
+          "note": "Fix applied, awaiting confirmation"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Reimbursement for client travel not received",
+      "description": "Submitted my travel expenses six weeks ago and have not been reimbursed yet.",
+      "category": "Finance",
+      "priority": "Medium",
+      "status": "New",
+      "requester": "Sana Iqbal",
+      "requesterEmail": "sana.iqbal@example.com",
+      "assignee": null,
+      "createdAt": "2026-09-13T06:00:00.000Z",
+      "updatedAt": "2026-09-13T06:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-09-13T06:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Request for ergonomic chairs for the design team",
+      "description": "Four members of the design team need ergonomic chairs. Quotes attached to the shared drive.",
+      "category": "Procurement",
+      "priority": "Low",
+      "status": "New",
+      "requester": "Karthik Rao",
+      "requesterEmail": "karthik.rao@example.com",
+      "assignee": null,
+      "createdAt": "2026-09-28T01:00:00.000Z",
+      "updatedAt": "2026-09-28T01:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-09-28T01:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Shared drive access for new joiner",
+      "description": "A new analyst starts Monday and needs access to the analytics shared drive and BI workspace.",
+      "category": "IT Support",
+      "priority": "Medium",
+      "status": "Closed",
+      "requester": "Aisha Khan",
+      "requesterEmail": "aisha.khan@example.com",
+      "assignee": "Finance Desk",
+      "createdAt": "2026-10-07T00:00:00.000Z",
+      "updatedAt": "2026-10-09T00:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-10-07T00:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        },
+        {
+          "at": "2026-10-07T10:00:00.000Z",
+          "from": "New",
+          "to": "In Review",
+          "note": "Triaged and under review"
+        },
+        {
+          "at": "2026-10-07T13:00:00.000Z",
+          "from": "In Review",
+          "to": "In Progress",
+          "note": "Work has started"
+        },
+        {
+          "at": "2026-10-08T15:00:00.000Z",
+          "from": "In Progress",
+          "to": "Resolved",
+          "note": "Fix applied, awaiting confirmation"
+        },
+        {
+          "at": "2026-10-09T00:00:00.000Z",
+          "from": "Resolved",
+          "to": "Closed",
+          "note": "Confirmed complete"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Air conditioning too cold on 2nd floor",
+      "description": "The 2nd floor AC has been set far too low for a week. Several people are wearing jackets.",
+      "category": "Facilities",
+      "priority": "Low",
+      "status": "Resolved",
+      "requester": "Rohan Mehta",
+      "requesterEmail": "rohan.mehta@example.com",
+      "assignee": "Facilities Team",
+      "createdAt": "2026-10-02T07:00:00.000Z",
+      "updatedAt": "2026-10-05T07:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-10-02T07:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        },
+        {
+          "at": "2026-10-03T13:00:00.000Z",
+          "from": "New",
+          "to": "In Review",
+          "note": "Triaged and under review"
+        },
+        {
+          "at": "2026-10-04T16:00:00.000Z",
+          "from": "In Review",
+          "to": "In Progress",
+          "note": "Work has started"
+        },
+        {
+          "at": "2026-10-05T07:00:00.000Z",
+          "from": "In Progress",
+          "to": "Resolved",
+          "note": "Fix applied, awaiting confirmation"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Production database showing slow queries",
+      "description": "Reports that normally take seconds are taking minutes since this morning. Users are blocked.",
+      "category": "IT Support",
+      "priority": "Critical",
+      "status": "In Progress",
+      "requester": "Priya Nair",
+      "requesterEmail": "priya.nair@example.com",
+      "assignee": "Procurement Team",
+      "createdAt": "2026-09-15T21:00:00.000Z",
+      "updatedAt": "2026-09-16T09:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-09-15T21:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        },
+        {
+          "at": "2026-09-16T02:00:00.000Z",
+          "from": "New",
+          "to": "In Review",
+          "note": "Triaged and under review"
+        },
+        {
+          "at": "2026-09-16T09:00:00.000Z",
+          "from": "In Review",
+          "to": "In Progress",
+          "note": "Work has started"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Clarification on leave carry-over policy",
+      "description": "Can unused leave be carried over into next year, and if so what is the cap?",
+      "category": "HR",
+      "priority": "Low",
+      "status": "Closed",
+      "requester": "Daniel Brooks",
+      "requesterEmail": "daniel.brooks@example.com",
+      "assignee": "IT Helpdesk",
+      "createdAt": "2026-09-21T02:00:00.000Z",
+      "updatedAt": "2026-09-23T01:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-09-21T02:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        },
+        {
+          "at": "2026-09-21T09:00:00.000Z",
+          "from": "New",
+          "to": "In Review",
+          "note": "Triaged and under review"
+        },
+        {
+          "at": "2026-09-21T16:00:00.000Z",
+          "from": "In Review",
+          "to": "In Progress",
+          "note": "Work has started"
+        },
+        {
+          "at": "2026-09-21T19:00:00.000Z",
+          "from": "In Progress",
+          "to": "Resolved",
+          "note": "Fix applied, awaiting confirmation"
+        },
+        {
+          "at": "2026-09-23T01:00:00.000Z",
+          "from": "Resolved",
+          "to": "Closed",
+          "note": "Confirmed complete"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Vendor invoice dispute for packaging order",
+      "description": "The invoice total does not match the purchase order. We were charged for 500 units, not 450.",
+      "category": "Finance",
+      "priority": "High",
+      "status": "In Review",
+      "requester": "Sana Iqbal",
+      "requesterEmail": "sana.iqbal@example.com",
+      "assignee": "Facilities Team",
+      "createdAt": "2026-10-03T21:00:00.000Z",
+      "updatedAt": "2026-10-04T06:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-10-03T21:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        },
+        {
+          "at": "2026-10-04T06:00:00.000Z",
+          "from": "New",
+          "to": "In Review",
+          "note": "Triaged and under review"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Order safety gloves for the warehouse",
+      "description": "Warehouse stock of safety gloves is below the reorder level. Please raise a purchase order.",
+      "category": "Procurement",
+      "priority": "High",
+      "status": "In Progress",
+      "requester": "Karthik Rao",
+      "requesterEmail": "karthik.rao@example.com",
+      "assignee": "Facilities Team",
+      "createdAt": "2026-09-13T07:00:00.000Z",
+      "updatedAt": "2026-09-14T08:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-09-13T07:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        },
+        {
+          "at": "2026-09-13T19:00:00.000Z",
+          "from": "New",
+          "to": "In Review",
+          "note": "Triaged and under review"
+        },
+        {
+          "at": "2026-09-14T08:00:00.000Z",
+          "from": "In Review",
+          "to": "In Progress",
+          "note": "Work has started"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Badge access not working at east entrance",
+      "description": "My badge works at the main door but is rejected at the east entrance since Tuesday.",
+      "category": "Facilities",
+      "priority": "Medium",
+      "status": "New",
+      "requester": "Aisha Khan",
+      "requesterEmail": "aisha.khan@example.com",
+      "assignee": null,
+      "createdAt": "2026-09-22T23:00:00.000Z",
+      "updatedAt": "2026-09-22T23:00:00.000Z",
+      "history": [
+        {
+          "at": "2026-09-22T23:00:00.000Z",
+          "from": null,
+          "to": "New",
+          "note": "Request submitted"
+        }
+      ]
+    }
+  ]
+}
